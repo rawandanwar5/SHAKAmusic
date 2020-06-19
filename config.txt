@@ -1,4 +1,4 @@
-token = Token Y Botaka Lera DaBne
+token = YTn3Vs9OyxXkI1g5tVX_X11MrOCMahka
 owner = 617046166219128943
 
 
@@ -7,7 +7,7 @@ prefix = "!"
 
 
 
-game = "ShaͩKͤAͮ🇸🇦" 
+game = "RAWAND李🇦" 
 
 
 
